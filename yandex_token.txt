@@ -1,0 +1,1 @@
+INPUT_YOUR_YANDEX_TOKEN (YOU CAN GET YOUR TOKEN HERE: https://yandex.ru/dev/disk/poligon/)
